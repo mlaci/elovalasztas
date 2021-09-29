@@ -1,0 +1,14 @@
+{
+  "name": "elovalasztas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.mjs",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "author": "Markó László",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "marked": "^3.0.4"
+  }
+}
